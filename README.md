@@ -4,24 +4,24 @@
 
 A fully responsive, modern coffee shop website featuring smooth animations and interactive elements. Built with pure HTML, CSS, and JavaScript.
 
-🔗 **Live Demo:** [https://udara-dilshan.github.io/Cup_of_Joy_Cafe---Coffee_Shop/]
+🔗 Live Demo: [https://udara-dilshan.github.io/Cup_of_Joy_Cafe---Coffee_Shop/](https://udara-dilshan.github.io/Cup_of_Joy_Cafe---Coffee_Shop/)
 
 ## ✨ Features
 
-- **Responsive Design**: Works flawlessly on all devices
-- **Interactive Elements**: Product cards with hover effects
-- **Modern Animations**: Scroll-triggered reveals and transitions
-- **Functional Contact Form**: With client-side validation
-- **Testimonial Slider**: Showcase customer reviews
-- **Mobile-Friendly Navigation**: Hamburger menu for small screens
+- Responsive Design: Works flawlessly on all devices
+- Interactive Elements: Product cards with hover effects
+- Modern Animations: Scroll-triggered reveals and transitions
+- Functional Contact Form: With client-side validation
+- Testimonial Slider: Showcase customer reviews
+- Mobile-Friendly Navigation: Hamburger menu for small screens
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Semantic markup
-- **CSS3**: Flexbox, Grid, and custom animations
-- **JavaScript**: Dynamic interactions
-- **Boxicons**: For beautiful vector icons
-- **ScrollReveal**: For scroll animations
+- HTML5: Semantic markup
+- CSS3: Flexbox, Grid, and custom animations
+- JavaScript: Dynamic interactions
+- Boxicons: For beautiful vector icons
+- ScrollReveal: For scroll animations
 
 ## 🚀 Installation
 
